@@ -31,15 +31,14 @@
 <h1>Clone the Repository</h1>
 
    ```shell
-   git clone https://github.com/Dheerajsingh002/DecentraliZedVotingSystemUsingBlockChain.git
-   cd dVoting
+   git clone https://github.com/Dheerajsingh002/JourneySmart.git
+   cd JourneySmart
    ```
 
 <h1>Install Dependencies</h1>
 
    ```shell
-   git clone https://github.com/Dheerajsingh002/DecentraliZedVotingSystemUsingBlockChain.git
-   cd dVoting
+   npm install
    ```
 
 <h1>Firebase Setup</h1>
