@@ -22,11 +22,13 @@
 <h1>Installation</h1>
 <h2>Prerequisites</h2>
 <ul>
-  <li>Node.js</li>
-  <li>npm (or yarn)</li>
-  <li>Firebase project setup</li>
-  <li>Gemini AI key</li>
-  <li>Google Places API key</li>
+  <a href=""https://nodejs.org/en/download/package-manager/current><li>Node.js</li></a>
+  <a href="https://www.npmjs.com/"> <li>npm (or yarn)</li></a>
+  <a href="https://firebase.google.com/?gad_source=1&gclid=CjwKCAjw2Je1BhAgEiwAp3KY7-XEHHw6SxeAfqxW73OtGdM4qv9ntH85Tfpi8Ctuy4eDpdLo1JLDrxoCuaEQAvD_BwE&gclsrc=aw.ds"></a>
+  <a href=""><li>Firebase project setup</li></a>
+  <a href="https://ai.google.dev/gemini-api/docs/api-overview"><li>Gemini AI key</li></a>
+  <a href="https://developers.google.com/maps/documentation/places/web-service/overview"><li>Google Places API key</li></a>
+  
 </ul>
 <h1>Clone the Repository</h1>
 
